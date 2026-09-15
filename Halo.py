@@ -9,8 +9,8 @@ import os
 import typing
 import json
 
-bot_token = "MTI4NzI0NTIzMjAzOTI2NDI5Nw.GjEO6s.5IR9v3oY0rBEYLqd7rhF4cwgXxb_V-DMlrqT5E"
-server_id = 1257037459292684450
+bot_token = ""
+server_id = 000000000
 
 
 
